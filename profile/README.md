@@ -4,6 +4,10 @@
 
 Um Daten aus Krankenversorgung und Forschung besser nutzbar zu machen, arbeiten die Universitätskliniken Deutschlands mit Forschungseinrichtungen, Unternehmen, Krankenkassen und Patientenvertretungen in der BMBF-geförderten Medizinformatik-Initiative (MII) zusammen.
 
+----
+
+### Arbeitsgruppen
+
 Die Zusammenarbeit wird über das Nationale Steuerungsgremium der MII koordiniert. Gemeinsame Festlegungen entstehen in spezifischen Arbeitsgruppen:
 
 * MII-Arbeitsgruppe Consent
@@ -14,6 +18,8 @@ Die Zusammenarbeit wird über das Nationale Steuerungsgremium der MII koordinier
 
 ----
 
+### Konsortien
+
 Die Umsetzungen im Rahmen der MII werden maßgeblich von den Universitätskliniken in Deutschland vorangetrieben, die sich zusammen mit weiteren Partnern zu Konsortien zusammengeschlossen haben:
 
 * MII-Konsortium DIFUTURE
@@ -22,6 +28,8 @@ Die Umsetzungen im Rahmen der MII werden maßgeblich von den Universitätsklinik
 * [MII-Konsortium SMITH](https://github.com/orgs/medizininformatik-initiative/teams/smith)
 
 ----
+
+### Projekte
 
 Für konkrete Anwendungsfälle entwickelt die Medizininformatik-Initiative in eigenen Projekten IT-Lösungen, die die Möglichkeiten moderner digitaler Dienstleistungen und Infrastrukturen im Gesundheitsbereich zeigen sollen. Die Anwendungsfälle beziehen sich entweder auf klinische oder auf infrastrukturelle und methodische Fragestellungen.
 
