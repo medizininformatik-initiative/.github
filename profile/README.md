@@ -15,16 +15,20 @@ Die Umsetzungen im Rahmen der MII werden maßgeblich von den Universitätsklinik
 * MII-Konsortium MIRACUM
 * [MII-Konsortium SMITH](https://github.com/orgs/medizininformatik-initiative/teams/smith)
 
+Darüber hinaus wird in sechs Digitalen FortschrittsHubs Gesundheit die Anwendung der MII-Ergebnisse in Hausarztpraxen, Krankenhäusern sowie in Pflege- und Rehabilitationseinrichtungen jenseits der Universitätsmedizin erprobt.
+
 ----
 
 ### Projekte
 
 Für konkrete Anwendungsfälle entwickelt die Medizininformatik-Initiative in eigenen Projekten IT-Lösungen, die die Möglichkeiten moderner digitaler Dienstleistungen und Infrastrukturen im Gesundheitsbereich zeigen sollen. Die Anwendungsfälle beziehen sich entweder auf klinische oder auf infrastrukturelle und methodische Fragestellungen.
 
+* [MII/NUM-Projekt CODEX](https://github.com/num-codex)
+* [MII-Projekt ABIDE_MI](https://github.com/orgs/medizininformatik-initiative/teams/abide)
 * [MII-Projekt CORD_MI](https://github.com/orgs/medizininformatik-initiative/teams/cord)
 * [MII-Projekt POLAR_MI](https://github.com/orgs/medizininformatik-initiative/teams/polar)
-* [MII-Projekt ABIDE_MI](https://github.com/orgs/medizininformatik-initiative/teams/abide)
-* [MII/NUM-Projekt CODEX](https://github.com/num-codex)
+* MII-Projekt INTERPOLAR
+* u.v.m.
 
 ----
 
@@ -56,7 +60,7 @@ Unterhalb der MII-Arbeitsgruppen werden in Taskforces konkrete Themen operativ b
 
 <img src="https://www.medizininformatik-initiative.de/sites/default/files/2023-07/2023-07-10_MII_Kerndatensatz_Abbildung.jpg" alt="MII-Kerndatensatz" width="50%">
 
-Der Kerndatensatz der Medizininformatik-Initiative basiert auf technischen Spezifikationen auf Basis von HL7(R) FHIR® und verschiedenen semantischen Standards wie LOINC® oder SNOMED CT®. Es ist der Datensatz, der in den Datenintegrationszentren der MII bei Vorliegen geeigneter Rechtsgrundlagen für die biomedizinische Forschung bereitgestellt werden kann.
+Der Kerndatensatz der Medizininformatik-Initiative basiert auf technischen Spezifikationen auf Basis von HL7® FHIR® und verschiedenen semantischen Standards wie LOINC® oder SNOMED CT®. Es ist der Datensatz, der in den Datenintegrationszentren der MII bei Vorliegen geeigneter Rechtsgrundlagen für die biomedizinische Forschung bereitgestellt werden kann.
 
 * [MII-Kerndatensatz-Wiki](https://github.com/medizininformatik-initiative/kerndatensatz-meta/wiki)
 
