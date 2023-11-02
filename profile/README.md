@@ -1,3 +1,5 @@
+Falls Sie am GitHub-Repository der Medizininformatik-Initiaitve teilnehmen wollen, schreiben Sie bitte eine E-Mail mit dem Betreff 'Zugang zum GitHub der MII' an <office@medizininformatik-initiative.de>.
+
 ![Vernetzen. Forschen. Heilen.](https://github.com/medizininformatik-initiative/.github/blob/main/images/mii_banner_1400x605.png) 
 
 ## Medizininformatik-Initiative
