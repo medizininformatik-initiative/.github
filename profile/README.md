@@ -64,7 +64,7 @@ Unterhalb der MII-Arbeitsgruppen werden in Taskforces konkrete Themen operativ b
 
 Der Kerndatensatz der Medizininformatik-Initiative basiert auf technischen Spezifikationen auf Basis von HL7® FHIR® und verschiedenen semantischen Standards wie LOINC® oder SNOMED CT®. Es ist der Datensatz, der in den Datenintegrationszentren der MII bei Vorliegen geeigneter Rechtsgrundlagen für die biomedizinische Forschung bereitgestellt werden kann.
 
-* [Übersicht über Versionen der Kerndatensatz‐Module]([https://github.com/medizininformatik-initiative/kerndatensatz-meta/wiki](https://github.com/medizininformatik-initiative/kerndatensatz-meta/wiki/Übersicht-über-Versionen-der-Kerndatensatz%E2%80%90Module))
+* [Übersicht über Versionen der Kerndatensatz‐Module](https://github.com/medizininformatik-initiative/kerndatensatz-meta/wiki/Übersicht-über-Versionen-der-Kerndatensatz%E2%80%90Module)
 
 ----
 &copy; [Medizininformatik-Initiative](https://www.medizininformatik-initiative.de/de/impressum) 2024
