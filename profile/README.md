@@ -14,7 +14,7 @@ Die Umsetzungen im Rahmen der MII werden maßgeblich von den Universitätsklinik
 
 * MII-Konsortium DIFUTURE
 * [MII-Konsortium HiGHmed](https://github.com/orgs/medizininformatik-initiative/teams/highmed)
-* MII-Konsortium MIRACUM
+* [MII-Konsortium MIRACUM](https://github.com/miracum)
 * [MII-Konsortium SMITH](https://github.com/orgs/medizininformatik-initiative/teams/smith)
 
 Darüber hinaus wird in sechs Digitalen FortschrittsHubs Gesundheit die Anwendung der MII-Ergebnisse in Hausarztpraxen, Krankenhäusern sowie in Pflege- und Rehabilitationseinrichtungen jenseits der Universitätsmedizin erprobt.
