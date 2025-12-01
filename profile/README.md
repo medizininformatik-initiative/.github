@@ -4,7 +4,9 @@ Falls Sie am GitHub-Repository der Medizininformatik-Initiaitve teilnehmen wolle
 
 ## Medizininformatik-Initiative
 
-Um Daten aus Krankenversorgung und Forschung besser nutzbar zu machen, arbeiten die Universitätskliniken Deutschlands mit Forschungseinrichtungen, Unternehmen, Krankenkassen und Patientenvertretungen in der BMBF-geförderten Medizinformatik-Initiative (MII) zusammen.
+Um Daten aus Krankenversorgung und Forschung besser nutzbar zu machen, arbeiten die Universitätskliniken Deutschlands mit Forschungseinrichtungen, Unternehmen, Krankenkassen und Patientenvertretungen in der BMFTR-geförderten Medizinformatik-Initiative (MII) zusammen.
+
+Die teilnehmenden Datenintegrationszentren bilden eine [Forschungsinfrastruktur des Netzwerks Universitätsmedizin](https://www.netzwerk-universitaetsmedizin.de/plattformen/num-diz).
 
 ----
 
